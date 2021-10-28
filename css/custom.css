@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+div {
+    padding:10px;
+}
+h2 {
+    text-align:center;
+}
+h3 {
+    text-align:center;
+}
+h4 {
+    text-align: center;
+}
+nav {
+    
+}
+.jumbotron {
+    background-color: white;
+    padding:50px;
+}
+
+.card {
+    text-align:center;
+    align-items: center;
+}
+.btn-outline-primary {
+    color: black;
+    border-color: black;
+}
+.btn-outline-primary:hover {
+    color: white;
+    background-color: mediumpurple;
+    border-color: mediumpurple;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: black;
+}
+a {
+    color:black;
+}
+a:hover {
+    color:mediumpurple;
+}
+p {
+    font-size: 18px;
+}
